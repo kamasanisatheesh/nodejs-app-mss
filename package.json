@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.56.12.13:8080//kamasanisatheeshreddy/repository/nodejsmss/"
+    "registry": "http://13.56.12.13:8080/kamasanisatheeshreddy/repository/nodejsmss/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
